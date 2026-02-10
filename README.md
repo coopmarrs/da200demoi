@@ -6,4 +6,4 @@ Created by Owen Miller
 
 To use a code setwd to the repo folder and run 
 '''r
-source(analysis.R)
+source("analysis.R")
